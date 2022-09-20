@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Event 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
+      "start": "2018-01-01 00:00:00",
+      "end": "2018-01-01 00:00:00",
+      "url": "http://www.example.com/event1",
+      "Hosted": "Hosted by: XYZ",
+      "date": "2018-01-01",
+      "time": "06:00 PM UTC+1",
+      "image": "/images/event1.png"
+    },
+    {
+      "id": "2",
+      "name": "Event 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
+      "start": "2018-01-01 00:00:00",
+      "end": "2018-01-01 00:00:00",
+      "url": "http://www.example.com/event1",
+      "Hosted": "Hosted by: XYZ",
+      "date": "2018-01-01",
+      "time": "06:00 PM UTC+1",
+      "image": "/images/event2.png"
+    },
+    {
+      "id": "3",
+      "name": "Event 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
+      "start": "2018-01-01 00:00:00",
+      "end": "2018-01-01 00:00:00",
+      "url": "http://www.example.com/event1",
+      "Hosted": "Hosted by: XYZ",
+      "date": "2018-01-01",
+      "time": "06:00 PM UTC+1",
+      "image": "/images/event3.png"
+    },
+    {
+      "id": "4",
+      "name": "Event 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
+      "start": "2018-01-01 00:00:00",
+      "end": "2018-01-01 00:00:00",
+      "url": "http://www.example.com/event1",
+      "Hosted": "Hosted by: XYZ",
+      "date": "2018-01-01",
+      "time": "06:00 PM UTC+1",
+      "image": "/images/event4.png"
+    },
+    {
+      "id": "5",
+      "name": "Event 5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
+      "start": "2018-01-01 00:00:00",
+      "end": "2018-01-01 00:00:00",
+      "url": "http://www.example.com/event1",
+      "Hosted": "Hosted by: XYZ",
+      "date": "2018-01-01",
+      "time": "06:00 PM UTC+1",
+      "image": "/images/event5.png"
+    }
+  ]
+}

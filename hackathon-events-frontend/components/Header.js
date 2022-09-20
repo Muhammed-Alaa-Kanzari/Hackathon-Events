@@ -2,13 +2,14 @@ import Link from "next/link";
 import React, { useContext } from "react";
 import Search from "./Search";
 import { FaSignOutAlt, FaSignInAlt } from "react-icons/fa";
+import styles from "@/styles/Header.module.css";
 
 export default function Header() {
   // const {user,logout} =useContext(AuthContext)
-  const user = true;
+  const user = false;
   return (
-    <header>
-      <div>
+    <header className={styles.header}>
+      <div className={styles.logo}>
         <Link href="/">
           <a>Hackthon Events</a>
         </Link>
