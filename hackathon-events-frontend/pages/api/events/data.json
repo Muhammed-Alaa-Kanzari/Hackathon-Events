@@ -8,10 +8,10 @@
       "start": "2018-01-01 00:00:00",
       "end": "2018-01-01 00:00:00",
       "url": "http://www.example.com/event1",
-      "Hosted": "Hosted by: XYZ",
+      "hosted": "hosted by: XYZ",
       "date": "2018-01-01",
       "time": "06:00 PM UTC+1",
-      "image": "/images/event1.png"
+      "image": "/images/event1.jpg"
     },
     {
       "id": "2",
@@ -21,10 +21,10 @@
       "start": "2018-01-01 00:00:00",
       "end": "2018-01-01 00:00:00",
       "url": "http://www.example.com/event1",
-      "Hosted": "Hosted by: XYZ",
+      "hosted": "hosted by: XYZ",
       "date": "2018-01-01",
       "time": "06:00 PM UTC+1",
-      "image": "/images/event2.png"
+      "image": "/images/event2.jpeg"
     },
     {
       "id": "3",
@@ -34,10 +34,10 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem in pariatur consequatur aliquam dolores, omnis quam neque. Magni, in temporibus.</",
       "end": "2018-01-01 00:00:00",
       "url": "http://www.example.com/event1",
-      "Hosted": "Hosted by: XYZ",
+      "hosted": "hosted by: XYZ",
       "date": "2018-01-01",
       "time": "06:00 PM UTC+1",
-      "image": "/images/event3.png"
+      "image": "/images/event3.jpg"
     },
     {
       "id": "4",
@@ -47,10 +47,10 @@
       "start": "2018-01-01 00:00:00",
       "end": "2018-01-01 00:00:00",
       "url": "http://www.example.com/event1",
-      "Hosted": "Hosted by: XYZ",
+      "hosted": "ABC XYZ",
       "date": "2018-01-01",
       "time": "06:00 PM UTC+1",
-      "image": "/images/event4.png"
+      "image": "/images/event4.jpg"
     },
     {
       "id": "5",
@@ -60,7 +60,7 @@
       "start": "2018-01-01 00:00:00",
       "end": "2018-01-01 00:00:00",
       "url": "http://www.example.com/event1",
-      "Hosted": "Hosted by: XYZ",
+      "hosted": "ABC XYZ",
       "date": "2018-01-01",
       "time": "06:00 PM UTC+1",
       "image": "/images/event5.png"
